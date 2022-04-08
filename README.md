@@ -63,3 +63,5 @@ Get a new instant sandbox preconfigured with sample data, including Teams Develo
 ## Getting help
 
 Having issues getting your local environment set up? Or accessing a sandbox to test your creations? Reach out to the Long View and Cisco team supporting!
+
+- Thank you!
